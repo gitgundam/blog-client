@@ -1,6 +1,6 @@
 <template>
   <div class='active'>
- 用户
+  用户
 </div>
 </template>
 
